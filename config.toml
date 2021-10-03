@@ -1,4 +1,4 @@
-baseurl = "http://anasizhar.github.io/blog/"
+baseurl = "https://anasizhar.github.io/blog/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
